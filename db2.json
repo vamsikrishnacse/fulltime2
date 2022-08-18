@@ -1,0 +1,251 @@
+{
+    "_embedded": {
+        "entityModels": [
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "HyperVerge",
+                 "appliedCount": 1540
+            },
+            {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "MathWorks - Associate/ Engineer / Senior Engineer in Engineering Development. Intern in Engineering Development.",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "MathWorks",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "Amazon Non Tech Hiring 2023 Batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "Amazon",
+                 "appliedCount": 1540
+            },
+            
+{
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Tally Solutions - Circuit Branches- CS/ ECE/ EEE/EAC/CCE/ AIE",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Tally Solutions",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "Maxlinear - hiring Engineer profile -2023 POB",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "Max Linear",
+                 "appliedCount": 1540
+            },
+{
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Western Digital SanDisk for 2023 Batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Western Digital SanDisk",
+                "appliedCount": 503
+            },
+
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "GE Digital for 2023 batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "GE Digital",
+                 "appliedCount": 1540
+            },
+            {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "PwC TC Additional Data : Associate /Consultant level",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "PwC",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "HEXAWARE TECHNOLOGIES for 2023",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "HEXAWARE TECHNOLOGIES",
+                 "appliedCount": 1540
+            },
+            {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Databricks : University Hiring 2023",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Databricks",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "Wonksknow Technologies India 2023 Batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "Wonksknow Technologies",
+                 "appliedCount": 1540
+            },
+              {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Open Financial Technologies Private Limited-Associate software Engineer",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Open Financial Technologies Private Limited",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "TheMathCompany for BTech other branches",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "TheMathCompany",
+                 "appliedCount": 1540
+            },
+               {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Silicon Labs India (Software)",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Silicon Labs India",
+                "appliedCount": 503
+            },
+
+{
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "Caterpillar - Campus recruitment for 2023 batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "Caterpillar",
+                 "appliedCount": 1540
+            },
+
+               {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Josh Technology Group",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Josh Technology Group",
+                "appliedCount": 503
+            },
+
+{
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "TheMathCompany",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "TheMathCompany",
+                 "appliedCount": 1540
+            },
+
+               {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Chemfab Alkalis for 2023 Batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Chemfab Alkalis Limited",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "Acies Global- B.Tech and M.Tech- 2023 Batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "Acies Global",
+                 "appliedCount": 1540
+            },
+
+               {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Kaleyra for B.Tech - 2023 Batch",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Kaleyra",
+                "appliedCount": 503
+            }
+        ]
+    },
+    "_links": {
+        "first": {
+            "href": "https://app.haveloc.com/brokerage/jobViews?page=0&size=20&sort=lastModifiedDate,desc"
+        },
+        "self": {
+            "href": "https://app.haveloc.com/brokerage/jobViews{?respectConfigProp}",
+            "templated": true
+        },
+        "last": {
+            "href": "https://app.haveloc.com/brokerage/jobViews?page=2&size=20&sort=lastModifiedDate,desc"
+        }
+    },
+    "page": {
+        "size": 20,
+        "totalElements": 55,
+        "totalPages": 3,
+        "number": 0
+    }
+}
